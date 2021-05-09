@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - Web Development - HTML, CSS, JavaScript, React.js(currently learning it), MySQL.
 - Open Source Projects.
 - ⚡ Fun fact: I am an athlete, sketching, I love travelling and new adventures. 
--->
+
  
