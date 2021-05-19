@@ -1,6 +1,6 @@
 ## Hi there I am Kavita Yadav! 👋
 
-- I am Front-end Developer, open-source contributor and coder.
+- I am **Front-end Developer, open-source contributor** and coder.
 
 - I’m currently learning **DSA and JavaScript Development.**
 - Programming language - **C++, Python.**
