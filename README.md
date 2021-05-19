@@ -1,11 +1,10 @@
 ### Hi there I am Kavita Yadav 👋
 
-- Front-end Developer, open-source contributor and coder.
-
-#### Languages and Tools:
-- I’m currently learning **DSA and Algo**
-- Programming language - C++, Python.
-- Interested in MERN Stack.
+- I am Front-end Developer, open-source contributor and coder.
+- 
+- I’m currently learning **DSA and JavaScript Development.**
+- Programming language - **C++, Python.**
+- Working on **MERN** Stack.
 - I am persuing my graduation at [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
 - I am an athlete, good at sketching and I love travelling and new adventures. 
 - How to reach me: **kavita.btech.ec18@iiitranchi.ac.in.**
