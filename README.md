@@ -1,17 +1,22 @@
 ### Hi there I am Kavita Yadav 👋
 
-
-
-
-
-- I am a pre-final year Electronics and Communications student at Indian institute Of Information technology, Ranchi. I am interested in Web-Development and Programming.
+- Front-end Developer, open-source contributor and coder.
 
 #### Languages and Tools:
-- Programming - C++, Python.
-- Web Development - HTML, CSS, JavaScript, React.js(currently learning it), MySQL.
-- Open Source Projects.
+- I’m currently learning **DSA and Algo**
+- Programming language - C++, Python.
+- Web Development - HTML, CSS, JavaScript, MySQL.
+- Currently learning MERN Stack.
+- I am persuing my graduation at [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
 - I am an athlete, good at sketching and I love travelling and new adventures. 
+- How to reach me: **kavita.btech.ec18@iiitranchi.ac.in.**
 
+
+
+## 🛠 &nbsp;Languages and Tools: 
+<img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming"><img src="https://logo.letskhabar.com//img/?tool=c-plus" alt="c-plus"><img src="https://logo.letskhabar.com/img/?tool=html" alt="html"><img src="https://logo.letskhabar.com//img/?tool=css" alt="css"><img src="https://logo.letskhabar.com/img/?tool=js" alt="js"><img src="https://logo.letskhabar.com/img/?tool=react" alt="react"><img src="https://logo.letskhabar.com/img/?tool=bootstrap" alt="bs"><img src="https://logo.letskhabar.com/img/?tool=python" alt="py"><img src="https://logo.letskhabar.com/img/?tool=flutter" alt="flutter">
+
+<img src="https://logo.letskhabar.com/img/?tool=git" alt="git"><img src="https://logo.letskhabar.com/img/?tool=github" alt="github"><img src="https://logo.letskhabar.com/img/?tool=netlify" alt="netlify"><img src="https://logo.letskhabar.com/img/?tool=heroku" alt="hero"><img src="https://logo.letskhabar.com/img/?tool=google_cloud" alt="google_cloud"><img src="https://logo.letskhabar.com/img/?tool=vs-code" alt="vsc">
 
 ## 🤝🏻 &nbsp;Connect with me:
 
