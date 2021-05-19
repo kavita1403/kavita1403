@@ -5,7 +5,7 @@
 #### Languages and Tools:
 - I’m currently learning **DSA and Algo**
 - Programming language - C++, Python.
-- Currently learning MERN Stack.
+- Interested in MERN Stack.
 - I am persuing my graduation at [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
 - I am an athlete, good at sketching and I love travelling and new adventures. 
 - How to reach me: **kavita.btech.ec18@iiitranchi.ac.in.**
