@@ -5,7 +5,6 @@
 #### Languages and Tools:
 - I’m currently learning **DSA and Algo**
 - Programming language - C++, Python.
-- Web Development - HTML, CSS, JavaScript, MySQL.
 - Currently learning MERN Stack.
 - I am persuing my graduation at [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
 - I am an athlete, good at sketching and I love travelling and new adventures. 
