@@ -7,10 +7,18 @@
 - I am a pre-final year Electronics and Communications student at Indian institute Of Information technology, Ranchi. I am interested in Web-Development and Programming.
 
 #### Languages and Tools:
-- Programming - CPP, Python.
+- Programming - C++, Python.
 - Web Development - HTML, CSS, JavaScript, React.js(currently learning it), MySQL.
 - Open Source Projects.
 - I am an athlete, good at sketching and I love travelling and new adventures. 
+
+
+## 🤝🏻 &nbsp;Connect with me:
+
+[<img src="https://logo.letskhabar.com/img/?tool=linkedin" alt="linkedin" width="30px">](https://www.linkedin.com/in/kavita-yadav-05a363188)
+[<img src="https://logo.letskhabar.com/img/?tool=gmail" alt="gmail" width="30px">](mailto:kavita.btech.ec18@iiitranchi.ac.in)
+[<img src="https://logo.letskhabar.com/img/?tool=twitter" alt="twitter" width="30px">](https://twitter.com/Kavita26626408)
+[<img src="https://logo.letskhabar.com/img/?tool=facebook" alt="facebook" width="30px">](https://www.facebook.com/profile.php?id=100026624149228)
 
 ## ⚙️ &nbsp;GitHub Analytics:
 <p align="center">
