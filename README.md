@@ -2,7 +2,7 @@
 
 - I am **Front-end Developer, open-source contributor** and coder.
 
-- I’m currently learning **DSA**
+- I’m currently learning **DSA.**
 - Programming language - **C++, Python.**
 - Working on **MERN** Stack.
 - I am persuing my graduation at [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
